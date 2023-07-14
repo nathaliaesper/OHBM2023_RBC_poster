@@ -1,12 +1,7 @@
 <picture>
-  <img alt="RBC and Child Mind Institute logos" src="Logos.png">
+  <img alt="RBC and Child Mind Institute logos" src="Logos_title.png">
 </picture>
 
-<h1 align="center">
-  A protocol for visual quality control applied to the Reproducible Brain Charts database
-</h1>
-
-----
 
 This is a repository with the relevant contents for the poster **A protocol for visual quality control applied to the Reproducible Brain Charts database**. Here we present a workflow for trained raters to perform visual quality control of the anatomical images of the RBC initiative. 
 
