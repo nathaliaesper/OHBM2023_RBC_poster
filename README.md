@@ -3,5 +3,7 @@
 </picture>
 
 <h1 align="center">
-  A protocol for visual quality control applied to the Reproducible Brain Charts database
+  <span style="color:blue;"
+    A protocol for visual quality control applied to the Reproducible Brain Charts database
+  </span>
 </h1>
